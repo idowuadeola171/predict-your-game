@@ -1,0 +1,7 @@
+{
+  "name": "MatchSense AI",
+  "description": "Professional sports intelligence, statistical probabilities, live match information, and AI-powered match analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

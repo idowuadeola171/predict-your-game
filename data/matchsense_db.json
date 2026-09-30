@@ -1,0 +1,259 @@
+{
+  "users": [
+    {
+      "id": "usr_c159825cfd63890d",
+      "fullName": "Idowu Joseph Adeola",
+      "email": "idowuadeola171@gmail.com",
+      "phone": "",
+      "role": "ADMIN",
+      "status": "ACTIVE_PREMIUM",
+      "hasInitialAccess": true,
+      "subscriptionPlan": "PREMIUM",
+      "subscriptionExpiresAt": "2027-09-30T09:42:02.623Z",
+      "analysesUsed": 0,
+      "analysesLimit": 9999,
+      "passwordHash": "d515dce7b48538cf92c985656a9c0781ab9e2879a4bf5ea7f63b91751498b047462412d0b3ffcb6df8419810e3c87df114a9741e23a440ba7b923c7888eb22c5",
+      "salt": "a6eaf0e1361cc5b18483adac76dd337c",
+      "createdAt": "2026-09-30T09:42:02.623Z",
+      "updatedAt": "2026-09-30T10:06:39.242Z"
+    }
+  ],
+  "settings": {
+    "websiteName": "MatchSense AI",
+    "tagline": "Smarter Sports Analysis. Better Understanding.",
+    "contactEmail": "contact@matchsense.ai",
+    "contactPhone": "+234 800 MATCHSENSE",
+    "initialAccessPrice": 500,
+    "premiumMonthlyPrice": 1000,
+    "freeAnalysesQuota": 0,
+    "initialAccessAnalysesQuota": 20,
+    "premiumAnalysesQuota": 200,
+    "maintenanceMode": false,
+    "paystackPublicKey": "pk_live_matchsense_gateway",
+    "payoutAccountName": "Idowu Joseph Adeola",
+    "payoutBankName": "SmartCash",
+    "payoutAccountNumber": "9020714762",
+    "sportsApiProvider": "MatchSense Simulated Live Engine",
+    "liveSimSpeedSeconds": 15
+  },
+  "payments": [],
+  "matches": [],
+  "analyses": [],
+  "news": [
+    {
+      "id": "news_001",
+      "title": "Statistical Breakdown: How High-Press Defensive Lines Impact Transition Goals in Modern Football",
+      "slug": "statistical-breakdown-high-press-defensive-lines",
+      "summary": "Data models examine how teams adopting an aggressive counter-press concede 38% fewer high-probability chances from structured possession phases.",
+      "content": "In the contemporary era of football tactical analytics, the relationship between high pressing volume and opponent xG suppression has reached unprecedented statistical clarity.\n\nBy cross-referencing match records across top European competitions, data demonstrates that squads maintaining an average defensive line height above 44.5 meters allow fewer sustained penalty-box entries than deep-block configurations, despite intuitive concerns regarding counter-attacking vulnerability.\n\nKey metrics tracked include PPDA (Passes Allowed Per Defensive Action), field tilt percentage, and recovery distance. When assessing matches objectively through verified spatial metrics rather than emotional impressions, analysts observe structural balance that heavily influences probability distributions over 90 minutes.",
+      "category": "Football",
+      "imageUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=1200&q=80",
+      "author": "Quantitative Sports Research Desk",
+      "published": true,
+      "featured": true,
+      "publishedAt": "2026-09-28T08:00:00.000Z"
+    },
+    {
+      "id": "news_002",
+      "title": "Three-Point Variance & Shot Selection: Why Expected Points Per Possession Tells the Real Story",
+      "slug": "three-point-variance-shot-selection-nba-analytics",
+      "summary": "A deep examination of effective field goal percentages and shot quality indicators across conference championship contenders.",
+      "content": "Basketball analytics have evolved beyond raw field-goal percentages to encompass true shooting efficiency, contested shot difficulty, and secondary assist creation rates.\n\nRecent data shows that teams generating above 1.18 points per half-court possession demonstrate significantly lower game-to-game volatility than squads heavily reliant on unassisted mid-range jumpers.\n\nUnderstanding expected possession value provides spectators with an analytical lens to observe strategic timeouts and rotation alterations without bias.",
+      "category": "Basketball",
+      "imageUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
+      "author": "Sports Telemetry Team",
+      "published": true,
+      "featured": false,
+      "publishedAt": "2026-09-27T12:30:00.000Z"
+    },
+    {
+      "id": "news_003",
+      "title": "First-Serve Efficiency on Fast Hard Courts: The Correlation with Break Point Conversion Deficits",
+      "slug": "first-serve-efficiency-fast-hard-courts-tennis",
+      "summary": "Evaluating ATP tour servebot statistics versus dynamic returners through return-point win frequencies.",
+      "content": "At the highest tiers of professional tennis, winning percentages on first serve create asymmetric match dynamics that statistical models must rigorously weigh.\n\nReturners who neutralize second serves with depth within 1 meter of the baseline raise their overall set probability by nearly 24%.\n\nMatchSense AI evaluates serve speeds, bounce apex distributions, and unforced error patterns to provide balanced probability ranges.",
+      "category": "Tennis",
+      "imageUrl": "https://images.unsplash.com/photo-1595435934249-5df7ed86e1c0?auto=format&fit=crop&w=1200&q=80",
+      "author": "Tennis Analytics Desk",
+      "published": true,
+      "featured": false,
+      "publishedAt": "2026-09-26T15:45:00.000Z"
+    }
+  ],
+  "ads": [
+    {
+      "id": "ad_001",
+      "title": "MatchSense Pro Analytics Suite",
+      "imageUrl": "",
+      "linkUrl": "/pricing",
+      "placement": "HOMEPAGE",
+      "active": true,
+      "startDate": "2026-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T23:59:59.000Z",
+      "clicks": 1,
+      "impressions": 0
+    },
+    {
+      "id": "ad_002",
+      "title": "Real-Time Sports Telemetry & Data Feeds",
+      "imageUrl": "",
+      "linkUrl": "/live",
+      "placement": "DASHBOARD",
+      "active": true,
+      "startDate": "2026-01-01T00:00:00.000Z",
+      "endDate": "2026-12-31T23:59:59.000Z",
+      "clicks": 0,
+      "impressions": 0
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann_001",
+      "title": "Welcome to MatchSense AI - Professional Sports Intelligence",
+      "message": "Explore our algorithmic match statistical probability estimates, live match center, and in-depth tactical telemetry.",
+      "type": "INFO",
+      "active": true,
+      "publishedAt": "2026-09-25T00:00:00.000Z"
+    },
+    {
+      "id": "ann_002",
+      "title": "System Notice: Responsible Data Policy",
+      "message": "All figures provided across MatchSense AI are statistical probability estimates calculated for informational and educational purposes. We do not offer or promote gambling activities.",
+      "type": "ALERT",
+      "active": true,
+      "publishedAt": "2026-09-26T10:00:00.000Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_9955b3dc2d3f",
+      "userId": "usr_9efe0b86b6b39272",
+      "title": "Payment Approved - Standard Access Active",
+      "message": "Your payment of ₦500 has been verified and approved. Standard platform access is active!",
+      "type": "PAYMENT",
+      "read": false,
+      "createdAt": "2026-09-30T09:46:48.420Z",
+      "link": "/dashboard"
+    },
+    {
+      "id": "notif_9b2f6b0989f2",
+      "userId": "usr_c159825cfd63890d",
+      "title": "New Payment Evidence Submitted",
+      "message": "New payment evidence submitted by Emmanuel Test (user_workflow_1790761608177@test.com) for Standard Access (₦500, Ref: SC-VALID-1790761608374). Awaiting verification.",
+      "type": "PAYMENT",
+      "read": false,
+      "createdAt": "2026-09-30T09:46:48.380Z",
+      "link": "/admin"
+    },
+    {
+      "id": "notif_2f1430205b47",
+      "userId": "usr_9efe0b86b6b39272",
+      "title": "Payment Evidence Awaiting Verification",
+      "message": "Payment evidence submitted successfully. Your payment is awaiting verification.",
+      "type": "PAYMENT",
+      "read": false,
+      "createdAt": "2026-09-30T09:46:48.380Z",
+      "link": "/pricing"
+    },
+    {
+      "id": "notif_27349a62d1cd",
+      "userId": "usr_9efe0b86b6b39272",
+      "title": "Account Created - Activation Required",
+      "message": "Please activate your MatchSense AI account with ₦500 initial access to unlock standard statistical tools.",
+      "type": "ANNOUNCEMENT",
+      "read": false,
+      "createdAt": "2026-09-30T09:46:48.335Z",
+      "link": "/pricing"
+    },
+    {
+      "id": "notif_6bb7eabb9f45",
+      "userId": "usr_3fb27336b65b5e83",
+      "title": "Payment Verification Unsuccessful",
+      "message": "Your payment submission (Ref: BAD-REF-1790761328279) was rejected: Reference was not found in SmartCash bank statement.. You may review and submit a corrected payment record.",
+      "type": "PAYMENT",
+      "read": false,
+      "createdAt": "2026-09-30T09:42:08.304Z",
+      "link": "/pricing"
+    },
+    {
+      "id": "notif_80f80c04b3d6",
+      "userId": "usr_3fb27336b65b5e83",
+      "title": "Payment Awaiting Verification",
+      "message": "Payment submitted successfully. Your payment of ₦500 (Ref: BAD-REF-1790761328279) is awaiting verification.",
+      "type": "PAYMENT",
+      "read": false,
+      "createdAt": "2026-09-30T09:42:08.284Z",
+      "link": "/pricing"
+    },
+    {
+      "id": "notif_34e81a929cb7",
+      "userId": "usr_3fb27336b65b5e83",
+      "title": "Account Created - Activation Required",
+      "message": "Please activate your MatchSense AI account with ₦500 initial access to unlock standard statistical tools.",
+      "type": "ANNOUNCEMENT",
+      "read": false,
+      "createdAt": "2026-09-30T09:42:08.266Z",
+      "link": "/pricing"
+    },
+    {
+      "id": "notif_90ec0b811ea4",
+      "userId": "usr_e9e0058f5b4e66c9",
+      "title": "Payment Approved - Standard Access Active",
+      "message": "Your payment of ₦500 has been verified and approved. Standard platform access is active!",
+      "type": "PAYMENT",
+      "read": false,
+      "createdAt": "2026-09-30T09:42:02.636Z",
+      "link": "/dashboard"
+    },
+    {
+      "id": "notif_93290bada098",
+      "userId": "usr_c159825cfd63890d",
+      "title": "Administrator Account Ready",
+      "message": "Administrator privileges active.",
+      "type": "ANNOUNCEMENT",
+      "read": false,
+      "createdAt": "2026-09-30T09:42:02.623Z",
+      "link": "/pricing"
+    },
+    {
+      "id": "notif_2ed34a507ec0",
+      "userId": "usr_e9e0058f5b4e66c9",
+      "title": "Payment Awaiting Verification",
+      "message": "Payment submitted successfully. Your payment of ₦500 (Ref: SC-REF-1790761322486) is awaiting verification.",
+      "type": "PAYMENT",
+      "read": false,
+      "createdAt": "2026-09-30T09:42:02.492Z",
+      "link": "/pricing"
+    },
+    {
+      "id": "notif_911c00e23386",
+      "userId": "usr_e9e0058f5b4e66c9",
+      "title": "Account Created - Activation Required",
+      "message": "Please activate your MatchSense AI account with ₦500 initial access to unlock standard statistical tools.",
+      "type": "ANNOUNCEMENT",
+      "read": false,
+      "createdAt": "2026-09-30T09:42:02.474Z",
+      "link": "/pricing"
+    },
+    {
+      "id": "notif_6b6a5bc1437d",
+      "userId": "usr_a44dd50f6f889762",
+      "title": "Initial Access Activated (₦500)",
+      "message": "Your MatchSense AI account has been successfully activated. You have full standard platform access.",
+      "type": "PAYMENT",
+      "read": false,
+      "createdAt": "2026-09-29T10:51:23.589Z",
+      "link": "/dashboard"
+    },
+    {
+      "id": "notif_90ff51885e60",
+      "userId": "usr_a44dd50f6f889762",
+      "title": "Account Created - Activation Required",
+      "message": "Please activate your MatchSense AI account with ₦500 initial access to unlock standard statistical tools.",
+      "type": "ANNOUNCEMENT",
+      "read": false,
+      "createdAt": "2026-09-29T10:51:01.012Z",
+      "link": "/pricing"
+    }
+  ]
+}
